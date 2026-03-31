@@ -33,21 +33,16 @@ Additionally, Google AI helps in identifying important information, extracting i
 ---
 
 ## Proof of Google AI Usage
-Attach screenshots in a `/proof` folder:
-
-![AI Proof](./proof/screenshot1.png)<img width="1919" height="1024" alt="image" src="https://github.com/user-attachments/assets/91314ce8-fe85-4f14-8b0d-858bbef52bc8" />
-
+![WhatsApp Image 2026-03-31 at 16 57 15](https://github.com/user-attachments/assets/d870d043-db24-48de-96a5-f218dce1da5d)
 
 ---
 
 ## Screenshots 
 Add project screenshots:
 
-<img width="1600" height="719" alt="image" src="https://github.com/user-attachments/assets/231989f6-3c68-40de-ad21-a9f5a51ee081" />
 
 
-![Screenshot2](./assets/screenshot2.png)![Uploading image.png…]()
-
+![WhatsApp Image 2026-03-31 at 16 39 42](https://github.com/user-attachments/assets/e4936a3c-6180-40df-9bca-801eddf47dcd)
 
 ---
 
